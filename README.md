@@ -11,4 +11,3 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: message me on LinkedIn! https://www.linkedin.com/in/jacobbolano/
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I host/dj a show for my school's student radio!
--->
