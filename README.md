@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on projects for my CSE courses: Recommender Systems & Web Mining, Systems for Scalable Analytics, etc.
+- 🔭 I’m currently working on projects for my CSE courses, like Systems for Scalable Analytics.
 - 🌱 I'm finishing my Computer Engineering Bachelors at the University of California San Diego
 - 📚 I will pursue my Master's in Electrical Engineering and Computer Science at the University of California Berkeley in the fall
 - 👔 I previously worked at ServiceNow, Dragos, and the San Diego Supercomputer Center
